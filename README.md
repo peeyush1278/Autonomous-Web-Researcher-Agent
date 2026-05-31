@@ -1,4 +1,4 @@
-# 🤖 Autonomous AI Web Researcher Agent
+#  Autonomous AI Web Researcher Agent
 
 This is a 100% free, local Python application that uses **LangGraph** (agent orchestration) and **Ollama** (local LLMs) to search the internet and summarize findings.
 
